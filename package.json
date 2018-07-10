@@ -1,0 +1,31 @@
+{
+  "name": "tabsera",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.4",
+    "debug": "^2.2.0",
+    "express": "~4.15.5",
+    "express-session": "^1.15.6",
+    "fortumo": "^0.1.0",
+    "iconv-lite": "^0.4.19",
+    "jade": "^1.11.0",
+    "jsonwebtoken": "^8.1.1",
+    "md5": "^2.2.1",
+    "method-override": "^2.3.10",
+    "morgan": "^1.7.0",
+    "multer": "^1.3.0",
+    "mysql": "^2.15.0",
+    "node-session-tokens": "^0.1.6",
+    "nodemailer": "^4.4.2",
+    "paypal-rest-sdk": "^1.8.1",
+    "pug": "^2.0.0-rc.4",
+    "serve-favicon": "^2.3.2",
+    "token-session": "^1.0.0"
+  }
+}
